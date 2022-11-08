@@ -1,0 +1,22 @@
+.start * {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.project_container {
+    padding: 2em;
+}
+
+.title_container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+.flex {
+    width: 1200px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    min-height: 75%;
+    display: flex;
+}
